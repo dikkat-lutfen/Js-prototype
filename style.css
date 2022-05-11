@@ -1,0 +1,33 @@
+.main1{
+    width: 800px;
+    height: 80px;
+    background-color: rgb(184, 139, 225);
+    margin: auto; 
+    margin-top: 100px;
+
+
+}
+
+
+
+.main2{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(184, 139, 225);
+    margin: auto; 
+    margin-top: 100px;
+    
+
+}
+
+.aaa{
+   
+    vertical-align: middle;
+    height: 40px;
+    margin: 20px 50px 0 50px;
+}
+
+.a2,.a3,.a4,.a5{
+    margin-left: 50px !important;
+}
+
